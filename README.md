@@ -28,7 +28,8 @@ Sebelum memulai, pastikan Anda telah memenuhi persyaratan berikut:
 ## Cara Mendapatkan URL Page Review
 
 1. Buka toko mana yang ingin diambil review nya, kemudian klik bagian penilaian
-1. Copy urlnya, Contoh `https://shopee.co.id/buyer/#########/rating?shop_id=#########`
+   ![alt text](https://github.com/rynhrd/scraping-review/blob/main/assets/get_id_shop.jpg?raw=true)
+2. Copy urlnya, Contoh `https://shopee.co.id/buyer/#########/rating?shop_id=#########`
 
 ## Setup main.py
 
