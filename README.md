@@ -34,7 +34,7 @@ Sebelum memulai, pastikan Anda telah memenuhi persyaratan berikut:
 ## Setup main.py
 
 - Git Clone -> git clone https://github.com/rynhrd/scraping-review.git
-- Masuk ke direktori - > cd Scraping-Shopee-Produk
+- Masuk ke direktori - > cd scraping-review
 - Buat virtual environment -> python -m venv env
 - Activate environment -> .\env\Scripts\activate (windows)
 - Install requirement.txt -> pip install -r requirements.txt
