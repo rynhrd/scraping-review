@@ -14,7 +14,7 @@ Ada beberapa pilihan output yaitu (**Json & CSV**).
 | produk          | nama produk dari toko                    |
 | review          | isi text review                          |
 | rating          | rating yang diberikan pada produk        |
-| waktu transaksi | waktu user transaksi                     |
+| waktu_transaksi | waktu user transaksi                     |
 
 
 ## Persyaratan
