@@ -36,7 +36,6 @@ Sebelum memulai, pastikan Anda telah memenuhi persyaratan berikut:
 - Git Clone -> git clone https://github.com/rynhrd/scraping-review.git
 - Masuk ke direktori - > cd scraping-review
 - Buat virtual environment -> python -m venv env
-- Activate environment -> .\env\Scripts\activate (windows)
 - Install requirement.txt -> pip install -r requirements.txt
 - Cara mendapatkan cookies.json [Refrensi](https://fajrulfalah18.medium.com/melewati-sistem-auth-website-di-selenium-emang-bisa-8d88a8a177e8)
   taruh cookies hasil dari referensi ke cookies.json
