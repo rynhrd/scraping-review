@@ -1,7 +1,7 @@
 # scraping-review
 
 Adalah tools untuk mendapatkan informasi data review pada suatu toko yang ada di Shopee.
-Ada beberapa pilihan output yaitu (Json & CSV).
+Ada beberapa pilihan output yaitu (**Json & CSV**).
 
 ## Dataset
 
